@@ -23,7 +23,7 @@ The project aims to explore, preprocess, and model the Dogecoin-USD time series 
 ## How to Use
 
 - Ensure Python and necessary libraries (e.g., pandas, matplotlib, TensorFlow) are installed.
-- Open the `Dogecoin_Data_Engineering.ipynb` file in a Jupyter Notebook environment.
+- Open the `Dogecoin_ML_Model_and_Prediction.ipynb` file in a Jupyter Notebook environment.
 
 ## Usage Notes
 
